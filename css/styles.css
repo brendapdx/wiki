@@ -2,3 +2,7 @@
   text-align: right;
   font-size: small;
 }
+
+.top {
+  vertical-align: text-top;
+}
